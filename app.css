@@ -1,0 +1,49 @@
+h1{
+  
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+nav{
+  margin: 0px;
+  padding:10px;
+  background-color: rgb(10, 7, 7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.image_class{
+  padding-left: 400px;
+}
+
+.search_box1{
+  flex: 1;
+  align-items: center;
+  position: fixed;
+  border-radius: 5px;
+  background-color: black;
+  
+}
+
+
+section{
+  margin: 20px;
+  padding: 20px;
+  background-color: black;
+  border-radius: 10px;
+  border-top: 20px;
+}
+
+
+
+main{
+  margin: 20px;
+  padding: 100px;
+  background: rgb(216, 214, 214);
+  border-radius:10px ;
+
+}
